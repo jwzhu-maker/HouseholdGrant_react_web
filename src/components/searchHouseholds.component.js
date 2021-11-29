@@ -89,8 +89,8 @@ export default class SearchHouseholds extends Component {
                             <option value={"Student_Encouragement_Bonus"}>Student Encouragement Bonus</option>
                             <option value={"Family_Togetherness_Scheme"}>Family Togetherness Scheme</option>
                             <option value={"Elder_Bonus"}>Elder Bonus</option>
-                            <option value={"Baby_Sunshine_Grant"}>Baby Sunshine Grants</option>
-                            <option value={"YOLO_GST_Grant"}>YOLO GST Gran</option>
+                            <option value={"Baby_Sunshine_Grant"}>Baby Sunshine Grant</option>
+                            <option value={"YOLO_GST_Grant"}>YOLO GST Grant</option>
                         </select>
                         <input hidden
                             type="text"
